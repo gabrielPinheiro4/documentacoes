@@ -37,7 +37,7 @@ if (admin == true){
 }
 ```
 
-Porém podemos melhorar ainda mais nosso código, como uma estrutura condicional verifica se sua condição é verdadeira, não precisamos escrever admin == True, podemos apenas escrever if admin.
+Porém podemos melhorar ainda mais nosso código, como uma estrutura condicional verifica se uma condição é verdadeira, não precisamos escrever admin == True, podemos apenas escrever if admin.
 
 ```python
 admin = True
