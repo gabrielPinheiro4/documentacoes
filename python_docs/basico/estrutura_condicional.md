@@ -65,7 +65,6 @@ No código acima estamos verificando qual é o maior valor entre dois números, 
 Caso precisemos verificar se mais de uma condição for verdadeira iremos utilizar a palavra reservada elif logo após o if.
 
 ```
-
 if condicao:
     comando caso a primeira condição for verdadeira
 
